@@ -1,15 +1,13 @@
 ---
-title: Welcome to Jekyll!
-date: 2018-05-27 06:12:40 Z
+title: Time Travel is REAL!
+date: 2018-05-27 06:12:00 Z
 categories:
 - jekyll
 - update
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Time travel is real and all of history is vulnerable to attack. Which is why I must travel through time to stop the spread of these so-called "time aberrations" and erase their damage to history. I am considered by all to be an outcast, a misfit. But please, don't call me a hero... I am a Legend of Tomorrow 
 
 Jekyll also offers powerful support for code snippets:
 
