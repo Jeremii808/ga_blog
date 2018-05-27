@@ -17,6 +17,6 @@ url:
 twitter_username: jekyllrb
 github_username: Jeremii808
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
 - jekyll-feed
