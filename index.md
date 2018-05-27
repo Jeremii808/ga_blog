@@ -1,7 +1,6 @@
 ---
 title: Education
 layout: home
-published: true
 ---
 
 The University of Hawaii at Hilo - Hilo, HI 96720  
